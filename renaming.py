@@ -1,6 +1,6 @@
 import os
 
-path = "/Volumes/UME/Tokyo Ghoul/staffel 3"
+path = "" // insert your path here
 name = str(input("Enter the name of the file: "))
 
 def walkFolder(path):
